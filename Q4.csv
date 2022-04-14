@@ -1,0 +1,26 @@
+CustomerId,FirstName,LastName,Country,total_spent
+56,Diego,Gutiérrez,Argentina,37.62
+55,Mark,Taylor,Australia,37.62
+7,Astrid,Gruber,Austria,42.62
+8,Daan,Peeters,Belgium,37.62
+1,Luís,Gonçalves,Brazil,39.62
+3,François,Tremblay,Canada,39.62
+57,Luis,Rojas,Chile,46.62
+6,Helena,Holý,Czech Republic,49.62
+9,Kara,Nielsen,Denmark,37.62
+44,Terhi,Hämäläinen,Finland,41.62
+43,Isabelle,Mercier,France,40.62
+37,Fynn,Zimmermann,Germany,43.62
+45,Ladislav,Kovács,Hungary,45.62
+58,Manoj,Pareek,India,38.62
+46,Hugh,O'Reilly,Ireland,45.62
+47,Lucas,Mancini,Italy,37.62
+48,Johannes,Van der Berg,Netherlands,40.62
+4,Bjørn,Hansen,Norway,39.62
+49,Stanisław,Wójcik,Poland,37.62
+34,João,Fernandes,Portugal,39.62
+50,Enrique,Muñoz,Spain,37.62
+51,Joakim,Johansson,Sweden,38.62
+26,Richard,Cunningham,USA,47.62
+52,Emma,Jones,United Kingdom,37.62
+53,Phil,Hughes,United Kingdom,37.62
